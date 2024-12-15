@@ -4,6 +4,7 @@
     <title>Home hi</title>
 </head>
 <body>
+<<<<<<< HEAD
     <h1>Welcome hi hi</h1>
 </body>
 </html>
